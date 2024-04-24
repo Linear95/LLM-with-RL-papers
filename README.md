@@ -23,7 +23,7 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [8] Laskin M, Wang L, Oh J, et al. **In-context reinforcement learning with algorithm distillation**[J]. arXiv preprint arXiv:2210.14215, 2022.[[link]](https://arxiv.org/pdf/2210.14215)
 
-
+[9] Cheng P, Hu T, Xu H, et al. **Self-playing Adversarial Language Game Enhances LLM Reasoning**[J]. arXiv preprint arXiv:2404.10642, 2024. [[link]](https://arxiv.org/abs/2404.10642)
 
 ## RLHF(RL with Human Feedback)
 
@@ -44,6 +44,9 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 [8] Ganguli D, Askell A, Schiefer N, et al. **The capacity for moral self-correction in large language models**[J]. arXiv preprint arXiv:2302.07459, 2023.[[link]](https://arxiv.org/pdf/2302.07459)
 
 [9] Zhu B, Jiao J, Jordan M I. **Principled Reinforcement Learning with Human Feedback from Pairwise or $ K $-wise Comparisons**[J]. arXiv preprint arXiv:2301.11270, 2023.[[link]](https://arxiv.org/pdf/2301.11270)
+
+[10] Cheng P, Yang Y, Li J, et al. **Adversarial Preference Optimization**. arXiv preprint arXiv:2311.08045, 2023.[[link]](https://arxiv.org/abs/2311.08045)
+
 
 ### Prompt-based but RL related 
 
